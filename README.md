@@ -43,9 +43,7 @@ This repository contains projects completed as part of the **JavaScript, jQuery,
 
 ## 🚀 Coming Soon
 
-- ✅ Source code with comments  
-- ✅ Screenshots of each working app  
-- ✅ Live demo links (optional)
+- ✅ Reconstructed Source codes 
 
 ---
 
